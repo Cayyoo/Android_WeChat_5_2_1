@@ -1,0 +1,132 @@
+[
+    {
+        "outputFile": "C:\\Users\\Administrator\\Desktop\\wechat\\WeChat_5_2_1\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\wechat\\WeChat_5_2_1\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 316
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Administrator\\Desktop\\wechat\\WeiChat5_2_1\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\wechat\\WeiChat5_2_1\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 316
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Administrator\\Desktop\\WeiChat5_2_1\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\WeiChat5_2_1\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 316
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Administrator\\Desktop\\wechat\\WeChat5_2_1\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\wechat\\WeChat5_2_1\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 316
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Administrator\\Desktop\\WeChat_5_2_1\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\WeChat_5_2_1\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 316
+                    }
+                }
+            }
+        ]
+    }
+]
